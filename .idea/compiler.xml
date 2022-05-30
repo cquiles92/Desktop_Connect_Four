@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Desktop_Connect_Four.Desktop_Connect_Four-task-build-classes-java.main" target="11" />
+      <module name="Desktop_Connect_Four.Desktop_Connect_Four-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Desktop_Connect_Four.Desktop_Connect_Four-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Desktop_Connect_Four.Desktop_Connect_Four-task-build-reports-tests.main" target="11" />
+      <module name="Desktop_Connect_Four.Desktop_Connect_Four-task-build-test-results.main" target="11" />
+      <module name="Desktop_Connect_Four.Desktop_Connect_Four-task-build-tmp.main" target="11" />
+      <module name="Desktop_Connect_Four.Desktop_Connect_Four-task.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Custom_exceptions-Checked_exception_with_constructor.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Custom_exceptions-Custom_exceptions_features.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Custom_exceptions-DriverNotReadyException.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Custom_exceptions-Exception_chaining.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Custom_exceptions-Handle_incorrect_inputs.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Custom_exceptions-Square_class.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Custom_exceptions-Theory.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Throwing_exceptions-Days_of_the_week.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Throwing_exceptions-The_root_of_a_number.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Throwing_exceptions-Theory.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Throwing_exceptions-Throw_a_checked_exception.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Throwing_exceptions-Throw_an_IOException.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Throwing_exceptions-Throw_an_unchecked_exception.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Window_listeners-Add_a_window.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Window_listeners-Count_a_window_active_time.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Window_listeners-Implement_a_listener.main" target="11" />
+      <module name="Desktop_Connect_Four.Topics-Window_listeners-Theory.main" target="11" />
+      <module name="Desktop_Connect_Four.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
